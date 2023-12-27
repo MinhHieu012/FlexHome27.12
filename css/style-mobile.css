@@ -1,0 +1,41 @@
+@media (max-width: 767.98px) {
+
+    .container {
+        display: block;
+        width: 100%;
+    }
+
+    .sidebar {
+        width: 100%;
+        padding: 15px;
+    }
+
+    .nav__item {
+        width: 114px;
+    }
+
+    .nav__item:first-child {
+        width: 100px;
+    }
+
+    .content__left {
+        width: 60%;
+    }
+
+    .content__right {
+        width: 35%;
+    }
+
+    .footer__right {
+        width: 100%;
+    }
+
+    .main {
+        display: none;
+    }
+
+    .button {
+        display: block;
+    }
+
+}
